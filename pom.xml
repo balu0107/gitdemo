@@ -3,4 +3,6 @@
 <name>gittdemo</name>
 <packaging>jar</packaging>
 <groupid>gitdemo</groupid>
+<repository></repository>
 </project>
+
